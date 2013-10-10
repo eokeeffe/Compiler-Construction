@@ -12,8 +12,8 @@ public class Compiler {
 
   // TODO: correct with your information
   public static String studentName = "Evan O'keeffe";
-  public static String studentID = "20645993";
-  public static String uciNetID = "eokeeffe@uci.edu";
+  public static String studentID = "";
+  public static String uciNetID = "";
 
   private String sourceFilename;
 

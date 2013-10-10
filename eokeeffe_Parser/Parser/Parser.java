@@ -8,8 +8,8 @@ import java.io.PrintStream;
 public class Parser
 {
 	static String studentName = "Evan O'Keeffe";
-	static String studentID = "20645993";
-	static String uciNetID = "eokeeffe@uci.edu";
+	static String studentID = "";
+	static String uciNetID = "";
 
 	private int recursionDepth;
 	private Scanner scanner;
